@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Owem
+- 👋 Hi, I’m Owen
 - 👀 I’m interested in Building Games And Operating system
 - 🌱 I’m currently learning C++
 
