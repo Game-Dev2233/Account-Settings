@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Owen
 - 👀 I’m interested in Building Games And Operating system
 - 🌱 I’m currently learning How to code in Python.
