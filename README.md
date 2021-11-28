@@ -1,2 +1,2 @@
-- 👀 I’m interested in Building Games And Operating system
-- 🌱 I’m currently learning How to code in Python.
+I’m interested in Building Games
+I’m currently learning How to code in Python and C#
